@@ -16,7 +16,7 @@ If i had forked Kenan's repo every git clone would have been at least 2gb, I ser
 ## Installation
 **1)** Git clone the repository somewhere on your computer (or press the Code button on github and download the zipfile then unzip it)
 
-**2)** Copy the `Otobleak` folder into `cdda/data/sound`
+**2)** Copy the `Otobleak` folder into `cdda/data/sound` (not your cloned version, put the folder that has `soundpack.txt` in it)
 
 **3)** Launch the game and enable the soundpack in the `settings` of the game
 
