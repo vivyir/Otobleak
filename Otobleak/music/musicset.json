@@ -1,0 +1,31 @@
+[
+  {
+    "type": "playlist",
+    "playlists": [
+      {
+        "id": "title",
+        "shuffle": true,
+        "files": [
+          { "file": "music/airshade_-_a_dream_about_you.ogg", "volume": 80 },
+          { "file": "music/alixe_-_lost_together.ogg", "volume": 90 },
+          { "file": "music/antent_-_october.ogg", "volume": 90 },
+          { "file": "music/ashess,_xrian_-_runaway.ogg", "volume": 65 },
+          { "file": "music/kaeshani_-_another_dawn.ogg", "volume": 70 },
+          { "file": "music/kaeshani_-_comfortably_empty.ogg", "volume": 80 },
+          { "file": "music/kaeshani_-_good_night.ogg", "volume": 90 },
+          { "file": "music/kaeshani_-_involuntary_memory_slowed.ogg", "volume": 100 },
+          { "file": "music/kaeshani_-_shooting_stars.ogg", "volume": 70 },
+          { "file": "music/kaeshani_-_wounds.ogg", "volume": 75 },
+          { "file": "music/leadwave_-_memories.ogg", "volume": 100 },
+          { "file": "music/leadwave_-_unfortunately.ogg", "volume": 90 },
+          { "file": "music/odyzon_-_winter_is_here.ogg", "volume": 80 },
+          { "file": "music/oneheart_x_antent_-_rain_inside.ogg", "volume": 100 },
+          { "file": "music/oneheart_x_james_king_-_wistful.ogg", "volume": 90 },
+          { "file": "music/piedkies_-_back_and_fourth.ogg", "volume": 100 },
+          { "file": "music/piedkies_-_falling_down.ogg", "volume": 90 },
+          { "file": "music/piedkies_-_morning_mist.ogg", "volume": 110 }
+        ]
+      }
+    ]
+  }
+]
