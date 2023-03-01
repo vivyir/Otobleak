@@ -23,7 +23,12 @@
           { "file": "music/oneheart_x_james_king_-_wistful.ogg", "volume": 90 },
           { "file": "music/piedkies_-_back_and_fourth.ogg", "volume": 100 },
           { "file": "music/piedkies_-_falling_down.ogg", "volume": 90 },
-          { "file": "music/piedkies_-_morning_mist.ogg", "volume": 110 }
+          { "file": "music/piedkies_-_morning_mist.ogg", "volume": 110 },
+          { "file": "music/willix_-_springtail.ogg", "volume": 70 },
+          { "file": "music/hisohkah_-_school_rooftop_intro_slowed.ogg", "volume": 100 },
+          { "file": "music/arbour_x_fantompower_-_midmorning_fog_slowed.ogg", "volume": 80 },
+          { "file": "music/my_head_is_empty_-_i_tried_to_forget.ogg", "volume": 100 },
+          { "file": "music/reidenshi_-_fell_asleep.ogg", "volume": 80 }
         ]
       }
     ]

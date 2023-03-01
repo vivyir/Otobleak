@@ -6,7 +6,7 @@ Otobleak is a soundpack mainly intended for C:DDA forked from [`Kenan's otopack 
 I've opted in to change the whole music pack into something more representative of the cataclysm's atmosphere; as I interpret it it's a depressing wasteland so that's the kind of songs I've tried to handpick! They're all the same mood relatively speaking and aren't like when the original otopack songs would erratically switch from cryochamber songs to a synthwave one, and while they are all the same mood for variety I've picked some that mimic the adrenaline rush you'd get when the good synthwave comes up, but with these you get to enjoy it with a side of depression :D!
 
 ## Music 
-Contains dark ambient songs from amazing artists such as Airshade, Alixe., Antent, Ashess, Kaeshani, Leadwave, Ødyzon, Øneheart, James King, and Piedkies; in the music directory every song contains the artist name as well.
+Contains dark ambient songs from amazing artists such as Airshade, Alixe., Antent, Ashess, Kaeshani, Leadwave, Ødyzon, Øneheart, James King, Piedkies, Willix, Hisohkah, Arbour, Fantompower, "my head is empty", and finally, Reidenshi! (inside the music directory every song contains the artist name(s) as well)
 
 Also, feel free to make an issue/pull request suggesting songs you think would fit, i'd appreciate it!
 
