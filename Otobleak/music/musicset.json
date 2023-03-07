@@ -28,7 +28,12 @@
           { "file": "music/hisohkah_-_school_rooftop_intro_slowed.ogg", "volume": 100 },
           { "file": "music/arbour_x_fantompower_-_midmorning_fog_slowed.ogg", "volume": 80 },
           { "file": "music/my_head_is_empty_-_i_tried_to_forget.ogg", "volume": 100 },
-          { "file": "music/reidenshi_-_fell_asleep.ogg", "volume": 80 }
+          { "file": "music/reidenshi_-_fell_asleep.ogg", "volume": 80 },
+          { "file": "music/diedlonely_x_ambivert_-_UNREL.ogg", "volume": 70 },
+          { "file": "music/hiraeth_-_heaven.ogg", "volume": 75 },
+          { "file": "music/lost_empathy_-_zenith.ogg", "volume": 55 },
+          { "file": "music/silecut_-_ごめんなさい.ogg", "volume": 90 },
+          { "file": "music/thenian_-_rivers_end.ogg", "volume": 75 }
         ]
       }
     ]
