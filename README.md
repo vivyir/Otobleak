@@ -27,6 +27,6 @@ To update, just go to where you originally cloned the repository and do a `git f
 
 ## Link to the original Otopack creator
 For the currently maintained one: https://github.com/Kenan2000/Otopack-Mods-Updates
-(Otobleak is on par with commit 2097)
+(Otobleak is on par with commit 2098)
 
 For the og og: https://discourse.cataclysmdda.org/u/survival_man/summary
