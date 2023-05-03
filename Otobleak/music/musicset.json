@@ -8,6 +8,7 @@
         "files": [
           { "file": "music/airshade_-_a_dream_about_you.ogg", "volume": 80 },
           { "file": "music/alixe_-_lost_together.ogg", "volume": 90 },
+          { "file": "music/alixe_x_inertia_-_fever_dream.ogg", "volume": 90 },
           { "file": "music/antent_-_october.ogg", "volume": 90 },
           { "file": "music/ashess,_xrian_-_runaway.ogg", "volume": 65 },
           { "file": "music/kaeshani_-_another_dawn.ogg", "volume": 70 },
@@ -30,10 +31,13 @@
           { "file": "music/my_head_is_empty_-_i_tried_to_forget.ogg", "volume": 100 },
           { "file": "music/reidenshi_-_fell_asleep.ogg", "volume": 80 },
           { "file": "music/diedlonely_x_ambivert_-_UNREL.ogg", "volume": 70 },
+          { "file": "music/diedlonely_-_analogue_winter.ogg", "volume": 80 },
           { "file": "music/hiraeth_-_heaven.ogg", "volume": 75 },
-          { "file": "music/lost_empathy_-_zenith.ogg", "volume": 55 },
+          { "file": "music/lost_empathy_-_zenith.ogg", "volume": 65 },
           { "file": "music/silecut_-_ごめんなさい.ogg", "volume": 90 },
-          { "file": "music/thenian_-_rivers_end.ogg", "volume": 75 }
+          { "file": "music/thenian_-_rivers_end.ogg", "volume": 75 },
+          { "file": "music/xyla_-_UNREL.ogg", "volume": 70 },
+          { "file": "music/reality_-_hushed_snowfall.ogg", "volume": 75 }
         ]
       }
     ]
